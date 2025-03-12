@@ -29,21 +29,29 @@ How to Run
 Clone the repository:
 
 bash
+
 git clone https://github.com/Adnankhan0999/stock-analysis-app.git
+
 Navigate to the repository directory:
 
 bash
+
 cd stock-analysis-app
+
 Install the required packages:
 
 bash
+
 pip install -r requirements.txt
+
 If you don't have a requirements.txt file, you can create one with the necessary packages or install them manually as mentioned in the Requirements section.
 
 Run the application:
 
 bash
+
 streamlit run Trading_App.py
+
 This will start the Streamlit server and open the app in your default web browser.
 
 
