@@ -1,4 +1,5 @@
 Stock Analysis and Prediction App
+
 This repository contains a Streamlit application designed for stock analysis and prediction. It includes features such as stock information, stock price prediction using ARIMA models, CAPM return and beta calculations, and detailed stock analysis with technical indicators.
 
 Features
