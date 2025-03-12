@@ -29,7 +29,7 @@ How to Run
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/stock-analysis-app.git
+git clone https://github.com/Adnankhan0999/stock-analysis-app.git
 Navigate to the repository directory:
 
 bash
